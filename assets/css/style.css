@@ -1,0 +1,29 @@
+.price {
+	margin: 0px 10px 5px 40px;
+}
+
+@media only screen and (max-width: 600px) {
+	.price {
+		margin: 0px 10px 5px 119px;
+	}
+}
+
+.post-desc {
+	height: 200px;
+}
+
+.padding-bottoms {
+	padding-bottom: 50px;
+}
+
+.payment {
+	height: 400px;
+}
+
+.cart-color-1 {
+	color: #860de9;
+}
+
+.cart-color-2 {
+	color: #e96429;
+}
